@@ -1,5 +1,7 @@
 # Binary-Translator
+**Author:** Jimmy Luong
 
+## Overview
 A simple translator from binary code to ordinary text.
 
 ## Usage  
